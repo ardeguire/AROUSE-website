@@ -1,0 +1,40 @@
+<!-- sidebar -->
+<div class="span3 outer-round" id="matte">
+<!-- stream -->
+<div class="inner-round" id="stream">
+<h2>Stream</h2>
+<p><i class="icon-headphones"></i> <strong><a href="/listen" target="_blank">Listen Now</a></strong></p>
+<!--
+<i class="icon-music"></i> <strong>Now Playing:</strong>
+<br />
+-->
+</div>
+<!-- /stream -->
+<!-- social -->
+<div class="inner-round" id="readable">
+<h2>Social</h2>
+<h3><a href=http://www.facebook.com/OSUStudentRadio>Facebook</a></h3>
+<p>
+<!-- Like button -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FOSUStudentRadio&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:192px; height:21px;" allowTransparency="true"></iframe>
+<br />
+<!-- Share button -->
+<a name="fb_share" type="icon_link" share_url="http://www.arouseosu.com">Share this page</a> <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript">c</script>
+</p>
+<h3><a href=http://twitter.com/OSUStudentRadio/>Twitter</a></h3>
+<p>
+<!-- Follow Button -->
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=OSUStudentRadio&show_count=false" style="width:300px; height:20px;"></iframe>
+<br />
+<!-- Tweet button -->
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http://www.arouseosu.com" style="width:130px; height:20px;"></iframe>
+</p>
+</div>
+<!-- /social -->
+<div class="inner-round" id="readable">
+<h2>Recent Songs</h2>
+<p>Artist - Album - Song</p>
+</div>
+</div>
+<!-- /sidebar -->
+
