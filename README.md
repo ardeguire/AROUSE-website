@@ -1,6 +1,6 @@
-# AROUSE - 
+# AROUSE - Amateur Radio Organization for Undergratuate Student Entertainment
 
-## Design and code by Adam De Guire
+## Design and code by Adam De Guire, 2012.
 
 ### Features
 
@@ -10,7 +10,7 @@
 ### Resources
 
 1. [Twitter Bootstrap][bootstrap]
-2. [Neou Bold][nb] by [Andr&#233 Uenojo][artist]
+2. [Neou Bold][nb] by [André Uenojo][artist]
 
 [bootstrap]: http://twitter.github.com/bootstrap/
 [nb]: http://www.dafont.com/neou.font
