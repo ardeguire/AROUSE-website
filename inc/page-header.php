@@ -5,7 +5,7 @@
 </div>
 <div class="span10">
 <div class="hero-unit">
-<h1><a href="http://www.arouseosu.com/index.php">Get <span style="color:#900;">AROUSE</span>d</a></h1>
+<h1><a href="http://arouseosu.com/index.php">Get <span style="color:#900;">AROUSE</span>d</a></h1>
 <p style="text-align:right;margin-top:10px;">The Student Radio Organization at The Ohio State University</p>
 <!-- nav -->
 <!-- /nav -->
