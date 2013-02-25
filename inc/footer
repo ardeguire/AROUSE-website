@@ -3,7 +3,7 @@
 <!-- footer -->
 <div class="row-fluid">
 <div class="span12" style="text-align:center; margin-top:10px;">
-<p>&copy <?php date_default_timezone_set('America/Chicago'); echo date('Y'); ?> AROUSE</p>
+<p><a id="djform" rel="nofollow" href="https://docs.google.com/spreadsheet/viewform?formkey=dGdHYWVUa3h4dnRQcEhYWXZLdDBpX0E6MQ#gid=0">&copy</a> <?php date_default_timezone_set('America/Chicago'); echo date('Y'); ?> AROUSE</p>
 <p>The Amateur Radio Organization for Undergraduate Student Entertainment</p>
 </div>
 </div>
