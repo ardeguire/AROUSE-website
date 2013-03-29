@@ -153,8 +153,8 @@ textarea {
 body {
   margin: 0;
   font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-size: 16px;
+  line-height: 20px;
   color: #333333;
   background-color: #ffffff;
 }
@@ -346,12 +346,9 @@ a:hover {
 p {
   margin: 0 0 9px;
   font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
 }
 p small {
-  font-size: 11px;
-  color: #999999;
+  font-size: 13px;
 }
 .lead {
   margin-bottom: 18px;
