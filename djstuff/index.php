@@ -25,7 +25,7 @@
 			</li>
 			<li>link to the playlist maker (eventually)</li>
 		</ul>
-
+		<br />
 		<h3>Reference Documents</h3>
 		<ul>
 			<li><a href="AROUSERules.pdf">The Rules of AROUSE</a> (pdf)</li>
