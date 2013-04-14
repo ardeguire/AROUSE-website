@@ -1,11 +1,13 @@
 <!-- to be replaced with HTML5 version, eventually -->
 <script type='text/javascript' src='http://www.caster.fm/embed.php?uid=30076&size=small'></script>
-<iframe frameborder="0" height="240" width="264" src="http://www.caster.fm/status_embed.php?uid=30076" scrolling="no" name="casterframe"></iframe>
+<iframe frameborder="0" height="240" width="264" src="http://www.caster.fm/status_embed.php?uid=30076" scrolling="no" id="casterframe"></iframe>
 <!-- HTML5 stream -->
 <!--
 <audio controls>
+  This stream doesn't exist as of 2013-04-13.
   <source src="http://198.144.182.21:8000/stream.m3u" type="audio/mpeg">
-<iframe id="streamBox" height="112" width="420" scrolling="no" frameborder="0" src="player.html" name="streamBox"></iframe>
+  This is the flash-based fallback if the HTML5 audio tag doesn't work. As of 2013-04-13, player.html hasn't existed for a few months.
+  <iframe id="streamBox" height="112" width="420" scrolling="no" frameborder="0" src="player.html" name="streamBox"></iframe>
 </audio>
 -->
 
