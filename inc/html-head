@@ -1,22 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
+<meta charset="utf-8"></meta>
 <title>AROUSE - Student Radio at Ohio State</title>
 <!--stylesheets-->
-<link href="/css/bootstrap.css" rel="stylesheet" />
-<link href="/css/arouse.css" rel="stylesheet" />
+<link rel="stylesheet" href="/css/bootstrap.css" />
+<link rel="stylesheet" href="/css/arouse.css" />
+<link rel="stylesheet" href="/css/mediaelementplayer.css" />
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/less-1.3.0.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.js"></script>
-<!-- Refreshes the caster.fm votes/status frame. -->
-<script type="text/javascript">
-$(document).ready(function(){
-  setInterval(function(){
-  document.getElementById('casterframe').src = document.getElementById('casterframe').src
-  }, 15000)
-});
-</script>
+<script type="text/javascript" src="/js/mediaelement-and-player.min.js"></script>
 <!-- Google Analytics -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
