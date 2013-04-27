@@ -4,5 +4,5 @@
 </audio>
 <!-- Starts mediaelement.js -->
 <script type="text/javascript">
-$('audio').mediaelementplayer({startVolume: 0.8, features: ['playpause', 'volume'], alwaysShowControls: true});
+$('audio').mediaelementplayer({startVolume: 0.5, features: ['playpause', 'current', 'volume'], alwaysShowControls: true});
 </script>
