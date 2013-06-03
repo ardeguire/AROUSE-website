@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"></meta>
+<meta charset="utf-8" />
+<meta name="author" content="Adam De Guire" />
 <title>AROUSE - Student Radio at Ohio State</title>
 <!--stylesheets-->
 <link rel="stylesheet" href="/css/bootstrap.css" />
