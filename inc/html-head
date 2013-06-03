@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<?php date_default_timezone_set('America/Detroit'); echo "<!-- The server time is currently: "; echo date('M j, Y G:i:s'); echo "-->\n"; ?>
 <!--
 This website maintained by Adam De Guire.
-
 Please see https://github.com/ardeguire or http://ardeguire.com for my online resumes.
 -->
 <meta charset="utf-8" />
