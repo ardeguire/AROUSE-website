@@ -1,8 +1,13 @@
 <!-- HTML5 stream -->
 <audio controls>
-  <source src="http://198.144.182.21:8000/stream" type="audio/mpeg">
+  <source src="http://arouseosu.com:8800/stream" type="audio/mpeg">
 </audio>
 <!-- Starts mediaelement.js -->
 <script type="text/javascript">
 $('audio').mediaelementplayer({startVolume: 0.5, features: ['playpause', 'current', 'volume'], alwaysShowControls: true});
 </script>
+<!-- start sreamlicensing link
+<a title="Click Here To Play" href="http://www.streamlicensing.com/play/player.php?sid=1440&stream_id=2388"><img src="http://www.streamlicensing.com/play/buttons/12.png" width="250" height="100" style="border:none;"/></a>
+<a href="http://www.streamlicensing.com/directory/?action=verify&sid=1440" target="_Blank">
+<img src="http://www.streamlicensing.com/directory/images/streamlicensing-badge.png" border="0"></a>
+<!-- end streamlicensing stuff -->

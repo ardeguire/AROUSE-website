@@ -13,10 +13,10 @@
 <!-- social -->
 <div class="inner-round" id="readable">
 <h2>Social</h2>
-<h3><a href=http://www.facebook.com/OSUStudentRadio>Facebook</a></h3>
+<h3><a href=http://www.facebook.com/ArouseOSU>Facebook</a></h3>
 <p>
 <!-- Like button -->
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FOSUStudentRadio&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:192px; height:21px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FArouseOSU&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:192px; height:21px;" allowTransparency="true"></iframe>
 <br />
 <!-- Share button -->
 <a name="fb_share" type="icon_link" share_url="http://arouseosu.com">Share this page</a> <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript">c</script>

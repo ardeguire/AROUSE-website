@@ -13,6 +13,9 @@
 <!-- Page Content -->
 <h2>Welcome</h2>
 <p>The Amateur Radio Organization for Undergraduate Student Entertainment</p>
+<!--
+<p><strong>If you are interested in becoming a DJ for us, look for <a href="newdj.php">information here</a>!</strong></p>
+-->
 <br />
 <?php include 'inc/stream';?>
 <!-- End Page Content -->
